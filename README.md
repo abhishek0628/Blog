@@ -166,7 +166,7 @@ A: Use a `.env` file and add it to `.gitignore` to avoid pushing credentials to 
 
 For any questions or feedback, feel free to reach out:
 
-* Email: [abhijn124@gmail.com](mailto:abhijn124@gmail.com)
+* Email: [abhijnv124@gmail.com](mailto:abhijn124@gmail.com)
 * GitHub: [abhishek0628](https://github.com/abhishek0628)
 
 ```
