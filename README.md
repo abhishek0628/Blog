@@ -100,7 +100,7 @@ Blog/
 
 ### Home Page
 
-![Home Page](screenshots/Screenshot%202025-04-10%20at%2010.56.56%E2%80%AFPM.png)
+![Home Page](screenshots/homepage.png)
 
 ### Create Post
 
